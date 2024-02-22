@@ -1,3 +1,10 @@
+/*
+ * This keymap was originally created by replicaJunction for an Atreus keyboard.
+ * I have modified it extensively for my Iris/preferences.
+ *
+ * The original is available here:
+ *   https://github.com/replicaJunction/qmk_firmware/blob/master/keyboards/atreus/keymaps/replicaJunction/keymap.c
+ */
 #include QMK_KEYBOARD_H
 
 #define _MODDH 0
